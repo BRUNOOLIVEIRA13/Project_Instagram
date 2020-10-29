@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Instagram" src=".public/images/home.png" width="100%">
+  <img alt="Instagram" src=".github/home.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
