@@ -36,7 +36,7 @@ Foi realizado a criação da página inicial do Instagram com o objetivo de fixa
 ## 🔖 Layout
 
 Foi utilizado como referência a página inicial do [Instagram](https://www.instagram.com/) quando você já está conectado. 
-Bem como alguns elementos no [FIGMA](https://www.figma.com/file/utlWtroR7DPHA4GDbijVRC/iPhone-8-(Community).
+Bem como alguns elementos no [FIGMA](https://www.figma.com/file/utlWtroR7DPHA4GDbijVRC/iPhone-8-(Community))
 
 ## :memo: Licença
 
